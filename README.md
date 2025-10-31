@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Anahita 👋  
 
-<!--
-**anahitasouham/anahitasouham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent MORSE graduate from the University of Warwick, passionate about **data analysis, finance, and creative design**.  
+💼 Former intern at **TD Securities** and **CIEL Group Corp**, where I worked on financial modelling and market analysis.  
+🌍 Based in Paris | French & Canadian | Fluent in English, French, and Persian  
 
-Here are some ideas to get you started:
+### 🧠 What I’m working on
+- Building projects that combine **finance, data, and creativity**
+- Expanding my skills in **Python**, **R**, **VBA**, and **data visualisation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+`Python` · `R-Studio` · `Excel VBA` · `HTML/CSS` · `JavaScript` · `Figma` · `Git`
+
+### 📈 Featured Projects
+- **[Fashion Retail Dashboard](#)** – analysing sales data to identify trends  
+- **[Financial Modelling Tools](#)** – Excel/VBA models for investment projects  
+- **[Portfolio Website](#)** – simple HTML/CSS site showcasing creative projects  
+
+### 📫 Let’s connect!
+[LinkedIn](https://www.linkedin.com/in/anahitasouham)  
