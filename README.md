@@ -1,4 +1,4 @@
-# Hi everyone! 👋
+# Hi everyone!
 
 I am Anahita, a recent MORSE graduate from the University of Warwick and passionate about the intersection of **data analysis, quantitative finance** and **creative problem-solving**.
 
@@ -8,13 +8,13 @@ I previously took part in the **Kode With Klossy Mobile App Development** progra
 🌍 Based in Paris | Previously in Toronto | Fluent in English and French | Eligible to work in Europe, the UK, and Canada  
 📲 Currently refining my GitHub profile to transition from a personal skill-building space into a professional portfolio.
 
-### 🧠 What I’m working on
+### What I’m working on
+- Expanding my skills in **Python**, **R**, **VBA**, and **statistical modelling**
 - Strengthening my foundation in **model-driven analytics** and quantitative reasoning
 - Building projects that combine **finance, risk management, and data visualisation**
-- Expanding my skills in **Python**, **R**, **VBA**, and **statistical modelling**
 
-### 🧰 Languages and Tools
+### Languages and Tools
 `Python` · `R-Studio` · `Excel VBA` · `HTML/CSS` · `JavaScript` · `Figma` · `Git`
 
-### 📫 Let’s connect!
+### Let’s connect!
 [LinkedIn](https://www.linkedin.com/in/anahitasouham)  
